@@ -17,12 +17,6 @@ The solution was designed to replicate a real-world business intelligence report
 
 ---
 
-# Dashboard Preview
-
-<img width="100%" alt="Nykaa Marketing Dashboard" src="https://github.com/user-attachments/assets/marketing-dashboard-preview.png">
-
----
-
 # Business Problem
 
 Marketing teams run thousands of campaigns across multiple digital channels, but measuring:
